@@ -155,6 +155,7 @@ matter.send_command: some_endpoint.on_off.on  #same
 matter.send_command: some_endpoint.on_off.on  #same
 matter.send_command: some_endpoint.on_off.off  #? correct?
 matter.send_command: some_endpoint.on_on.on    #? correct?
+matter.send_command: some_endpoint.on_on.off   #?  correct?
 
 matter.send_command: some_endpoint.on_off.toggle
 
